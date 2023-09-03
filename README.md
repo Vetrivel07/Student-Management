@@ -5,12 +5,12 @@ This is the frontend design for a Student Management System, implemented using H
 
 # Features:
 
-🔹User Authentication: Secure login and registration system for administrators and users.
+### 🔹User Authentication: Secure login and registration system for administrators and users.
 
-🔹Student Records: Easily add, view, edit, and delete student records.
+### 🔹Student Records: Easily add, view, edit, and delete student records.
 
-🔹Staff Records: Easily add, view, edit, and delete staff records.
+### 🔹Staff Records: Easily add, view, edit, and delete staff records.
 
-🔹Grades and Reports: Record and display student grades and generate reports.
+### 🔹Grades and Reports: Record and display student grades and generate reports.
 
-🔹User-Friendly Interface: A clean and responsive design for an optimal user experience.
+### 🔹User-Friendly Interface: A clean and responsive design for an optimal user experience.
